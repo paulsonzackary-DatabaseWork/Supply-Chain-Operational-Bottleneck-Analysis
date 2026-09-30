@@ -1,0 +1,13 @@
+Count of Shipment_ID,Column Labels,,,,,,,
+Row Labels,Delayed,Delivered,In Transit,Lost,Returned,Grand Total,Warehouse,Delay Rate
+Warehouse_ATL,22,158,10,9,3,202,Warehouse_HOU,12%
+Warehouse_BOS,17,161,7,6,1,192,Warehouse_MIA,12%
+Warehouse_CHI,17,165,3,2,2,189,Warehouse_SF,11%
+Warehouse_DEN,16,160,8,4,2,190,Warehouse_ATL,11%
+Warehouse_HOU,25,164,7,5,5,206,Warehouse_LA,10%
+Warehouse_LA,22,181,10,3,2,218,Warehouse_CHI,9%
+Warehouse_MIA,22,148,12,6,3,191,Warehouse_BOS,9%
+Warehouse_NYC,10,148,4,3,1,166,Warehouse_SEA,9%
+Warehouse_SEA,16,158,5,1,5,185,Warehouse_DEN,8%
+Warehouse_SF,24,167,9,6,7,213,Warehouse_NYC,6%
+Grand Total,191,1610,75,45,31,1952,,
